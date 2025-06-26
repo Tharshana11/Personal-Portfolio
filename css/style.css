@@ -48,7 +48,7 @@ section{
 }
 #home{
     width:100%;
-    background:linear-gradient(rgba(169, 163, 163, 0.4),rgba(109, 108, 108, 0.6)),url(/images/tharshanaportfolio.jpg);
+    background:linear-gradient(rgba(70, 62, 62, 0.4),rgba(59, 48, 48, 0.6)),url(/images/tharshanasarathchandar.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
